@@ -20,3 +20,5 @@ Kaggle Dataset Download Link: https://www.kaggle.com/tunguz/big-five-personality
 === Open Source Web Application Used ===
 
 Jupyter Notebook 
+
+Aconda

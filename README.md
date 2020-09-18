@@ -27,4 +27,4 @@ Aconda
 
 Pandas (Python Data Analysis Library)
 
-double check (R)
+double check (R Programming)

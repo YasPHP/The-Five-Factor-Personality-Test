@@ -14,7 +14,7 @@ five broad dimensions commonly used to describe the human personality and psyche
 - The [IPIP-FFM-data-8Nov2018] Dataset
  -- This dataset contains 1,015,342 questionnaire answers collected online by Open-Source Psychometrics Project.
 
-Kaggle Dataset Download Link: https://www.kaggle.com/tunguz/big-five-personality-test
+Kaggle Dataset Download Link (zip pkg): https://www.kaggle.com/tunguz/big-five-personality-test
 
 
 === Open Source Web Application Used ===

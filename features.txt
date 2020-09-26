@@ -1,0 +1,5 @@
+Implemented Features
+. output personality type of individual
+
+Future Features
+. highlights the top 3 key character traits of each personality type

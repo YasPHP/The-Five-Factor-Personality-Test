@@ -1,3 +1,4 @@
+NOTE: CODE CURRENTLY PRIVATED (temporary course conflict of interest)
 
 === Background Information ===
 [From Wikipedia]

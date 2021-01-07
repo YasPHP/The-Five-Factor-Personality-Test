@@ -23,9 +23,15 @@ Kaggle Dataset Download Link (zip pkg): https://www.kaggle.com/tunguz/big-five-p
 # Applications
 
 - Jupyter Notebook 
-- Aconda
+- Anaconda
 
 # Libraries
 
 - Pandas (Python Data Analysis Library)
 
+# Sources
+
+- TBF Dataset: https://www.kaggle.com/tunguz/big-five-personality-test
+- BF Traits Image: https://cdn.slidesharecdn.com/ss_thumbnails/bigfivepersonalittraits-190614134158-thumbnail-4.jpg?cb=1566993701
+- Jupyter notebook: https://jupyter.org/
+- Anaconda: https://www.anaconda.com/

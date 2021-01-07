@@ -1,3 +1,5 @@
+![alt text](https://cdn.slidesharecdn.com/ss_thumbnails/bigfivepersonalittraits-190614134158-thumbnail-4.jpg?cb=1566993701)
+
 NOTE: CODE CURRENTLY PRIVATED (temporary course conflict of interest)
 
 # About

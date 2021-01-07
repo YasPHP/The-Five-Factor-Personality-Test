@@ -32,6 +32,7 @@ Kaggle Dataset Download Link (zip pkg): https://www.kaggle.com/tunguz/big-five-p
 # Sources
 
 - TBF Dataset: https://www.kaggle.com/tunguz/big-five-personality-test
+- Big Five personality traits Wiki: https://en.wikipedia.org/wiki/Big_Five_personality_traits
 - BF Traits Image: https://cdn.slidesharecdn.com/ss_thumbnails/bigfivepersonalittraits-190614134158-thumbnail-4.jpg?cb=1566993701
 - Jupyter notebook: https://jupyter.org/
 - Anaconda: https://www.anaconda.com/

@@ -18,6 +18,9 @@ five broad dimensions commonly used to describe the human personality and psyche
 # Kaggle Source Download
 Kaggle Dataset Download Link (zip pkg): https://www.kaggle.com/tunguz/big-five-personality-test
 
+# Techniques Used
+- Mini Batch K-means algorithm
+- Min-Max Normalization
 
 # Applications
 

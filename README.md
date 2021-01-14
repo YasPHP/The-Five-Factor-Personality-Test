@@ -30,6 +30,8 @@ Kaggle Dataset Download Link (zip pkg): https://www.kaggle.com/tunguz/big-five-p
 # Libraries
 
 - Pandas (Python Data Analysis Library)
+- Matplotlib
+- Numpy
 
 # Sources
 

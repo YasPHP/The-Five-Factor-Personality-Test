@@ -3,3 +3,4 @@ Implemented Features
 
 Future Features
 . highlights the top 3 key character traits of each personality type
+- have total taxonomy on a collective matplot pyplot totalized graph

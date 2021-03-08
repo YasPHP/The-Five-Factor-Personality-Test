@@ -8,7 +8,7 @@ for personality traits. When factor analysis (a statistical technique) is applie
 used to describe aspects of personality are often applied to the same person. For example, someone described as conscientious 
 is more likely to be described as "always prepared" rather than "messy". This theory is based therefore on the association 
 between words but not on neuropsychological experiments. This theory uses descriptors of common language and therefore suggests
-five broad dimensions commonly used to describe the human personality and psyche. (wikipedia)
+five broad dimensions commonly used to describe the human personality and psyche. (wikipedia) 
 
 # Dataset
 

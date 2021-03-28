@@ -15,9 +15,6 @@ five broad dimensions commonly used to describe the human personality and psyche
 - The [IPIP-FFM-data-8Nov2018] Dataset
  -- This dataset contains 1,015,342 questionnaire answers collected online by Open-Source Psychometrics Project.
 
-# Kaggle Source Download
-[Kaggle Dataset Download Link (zip pkg)](https://www.kaggle.com/tunguz/big-five-personality-test)
-
 # Techniques Used
 - Mini Batch K-means algorithm
 - Min-Max Normalization
@@ -35,6 +32,7 @@ five broad dimensions commonly used to describe the human personality and psyche
 
 # Sources
 
+- [Kaggle Dataset Download Link (zip pkg)](https://www.kaggle.com/tunguz/big-five-personality-test)
 - [TBF Dataset](https://www.kaggle.com/tunguz/big-five-personality-test)
 - [Big Five Personality Traits Wiki](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
 - [BF Traits Image](https://cdn.slidesharecdn.com/ss_thumbnails/bigfivepersonalittraits-190614134158-thumbnail-4.jpg?cb=1566993701)

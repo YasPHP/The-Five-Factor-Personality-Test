@@ -16,7 +16,7 @@ five broad dimensions commonly used to describe the human personality and psyche
  -- This dataset contains 1,015,342 questionnaire answers collected online by Open-Source Psychometrics Project.
 
 # Kaggle Source Download
-Kaggle Dataset Download Link (zip pkg): https://www.kaggle.com/tunguz/big-five-personality-test
+[Kaggle Dataset Download Link (zip pkg)](https://www.kaggle.com/tunguz/big-five-personality-test)
 
 # Techniques Used
 - Mini Batch K-means algorithm
@@ -35,8 +35,8 @@ Kaggle Dataset Download Link (zip pkg): https://www.kaggle.com/tunguz/big-five-p
 
 # Sources
 
-- TBF Dataset: https://www.kaggle.com/tunguz/big-five-personality-test
-- Big Five Personality Traits Wiki: https://en.wikipedia.org/wiki/Big_Five_personality_traits
-- BF Traits Image: https://cdn.slidesharecdn.com/ss_thumbnails/bigfivepersonalittraits-190614134158-thumbnail-4.jpg?cb=1566993701
-- Jupyter Notebook: https://jupyter.org/
-- Anaconda: https://www.anaconda.com/
+- [TBF Dataset](https://www.kaggle.com/tunguz/big-five-personality-test)
+- [Big Five Personality Traits Wiki](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
+- [BF Traits Image](https://cdn.slidesharecdn.com/ss_thumbnails/bigfivepersonalittraits-190614134158-thumbnail-4.jpg?cb=1566993701)
+- [Jupyter Notebook](https://jupyter.org/)
+- [Anaconda](https://www.anaconda.com/)
